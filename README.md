@@ -53,13 +53,18 @@ La guida raccoglie diversi argomenti fondamentali di HTML5:
 ## Struttura del progetto
 
 ```text
-/
+Cocktail-Explorer/
+│
 ├── index.html
-├── stile.css
-└── Immagini/
-    └── ...
+├── cocktail.html
+├── preferiti.html
+│
+├── script.js
+├── cocktail.js
+├── preferiti.js
+│
+└── style.css
 ```
-
 ## Obiettivo del progetto
 
 Il progetto è stato sviluppato principalmente come strumento personale di studio.
